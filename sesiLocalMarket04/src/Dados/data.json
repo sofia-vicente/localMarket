@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "desc": "box greninja",
+        "imagem": "../../public/greninja.webp",
+        "valor": 350.55
+    },
+    {
+        "id": 2,
+        "desc": "Mega Evolução",
+        "imagem": "../../public/sla.jpg",
+        "valor": 340.90
+    },
+    {
+        "id": 3,
+        "desc": "Charizard",
+        "imagem": "../../public/charizard.webp",
+        "valor": 500.00
+    }
+]
