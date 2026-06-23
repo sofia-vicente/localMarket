@@ -55,8 +55,8 @@
     },
     {
         "id": 10,
-        "desc": "Charizard",
-        "imagem": "../../public/charizard.webp",
+        "desc": "box 151",
+        "imagem": "../../public/img.jpg",
         "valor": 600.00
     }
 ]
