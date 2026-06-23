@@ -16,5 +16,47 @@
         "desc": "Charizard",
         "imagem": "../../public/charizard.webp",
         "valor": 500.00
+    },
+    {
+        "id": 4,
+        "desc": "box evee",
+        "imagem": "../../public/evee.jpg",
+        "valor": 358.55
+    },
+    {
+        "id": 5,
+        "desc": "booster Mega Evolução",
+        "imagem": "../../public/Booster.webp",
+        "valor": 380.90
+    },
+    {
+        "id": 6,
+        "desc": "box ascended heroes",
+        "imagem": "../../public/slaa.webp",
+        "valor": 600.00
+    },
+    {
+        "id": 7,
+        "desc": "caixas de booster",
+        "imagem": "../../public/caixas.webp",
+        "valor": 500.00
+    },
+    {
+        "id": 8,
+        "desc": "box scarlet & violet",
+        "imagem": "../../public/violet.webp",
+        "valor": 358.55
+    },
+    {
+        "id": 9,
+        "desc": "box iniciais",
+        "imagem": "../../public/inicial.png",
+        "valor": 380.90
+    },
+    {
+        "id": 10,
+        "desc": "Charizard",
+        "imagem": "../../public/charizard.webp",
+        "valor": 600.00
     }
 ]
