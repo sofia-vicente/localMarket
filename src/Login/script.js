@@ -3,7 +3,7 @@ function login(){
     // var senha = document.getElementById("senha").value
     var senha = $("#senha").val()
 
-    if(nome && senha && nome === "admin" && senha === "12345"){
+    if(nome && senha && nome === "vivente" && senha === "12345"){
         const user = {
             name: nome,
             dataEntrada: new Date(),
